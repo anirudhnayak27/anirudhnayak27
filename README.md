@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋 I'm Anirudh Nayak
+### 💫 About Me:
+🌱 I’m currently learning Machine Learning with Python<br>
 
 <!--
 **anirudhnayak27/anirudhnayak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
