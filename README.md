@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Anirudh Nayak
 ### :man_technologist: About Me :
-:seedling: Currently learning Machine Learning with Python<br>
-:zap:Area of interest-Embedded systems
+:seedling: Currently learning RUST and working on my DSA skills<br>
+:zap:Area of interest-Embedded systems, Computer Networks
 
 
 ### :computer:  Languages:
@@ -9,6 +9,7 @@
      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
      <img src="https://www.svgrepo.com/show/452091/python.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
      <img src="https://www.svgrepo.com/show/373445/assembly.svg" height="50px">&nbsp;&nbsp;&nbsp;&nbsp;
+     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="50px">&nbsp;&nbsp;&nbsp;
 </p>
 
 ### :hammer_and_wrench: Tools :
