@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Anirudh Nayak
 ### :man_technologist: About Me :
-:seedling: Currently learning RUST and working on my DSA skills<br>
-:zap:Area of interest-Embedded systems, Computer Networks
+:seedling: Currently learning RUST and Exploring Compilers<br>
+:zap:Area of interest- System Software
 
 
 ### :computer:  Languages:
